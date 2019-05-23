@@ -1,0 +1,40 @@
+                 						Situation
+
+You are a computer officer of a primary school. 
+You are asked to develop an Android application to teach junior students basic mathematics operation including addition, 
+subtraction, multiplication and division interactively.
+
+ Your application should be in the form of an exercise in which 10 questions are generated randomly and each question is of one of the types below:
+1)Adding an integer X to another integer Y where X, Y in [1, 99].
+2)Subtracting an integer X from another integer Y where X, Y in the [1, 99] and Y >X
+3)Multiplying an integer X by another integer Y where X, Y in [1, 20].
+4)Dividing an integer X by another integer Y where X, Y in [1, 99] and the quotient of X / Ymust be an integer.                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						----What do this simple app do-----
+
+	1.Create random math question
+
+	
+
+	2.The application will record down the number of question which is correct or wrong, 
+	the correct answer of the question, the number of question given up 
+
+	3.Text to speech function is used. When the user input negative number or non-integer answer,the system will 
+	remind him in voice output.Besides, the system will also tell whether the answer is true or false after the user is input an answer.
+	If the answer is incorrect, the system will tell out the correct answer.
+
+	
+	4.The summary is displayed once 5 minutes is end or 10 questions are passed. The summary will display all the result of user and read them out in voice.
