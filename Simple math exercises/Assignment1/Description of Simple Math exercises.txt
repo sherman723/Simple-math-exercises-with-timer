@@ -36,11 +36,11 @@ subtraction, multiplication and division interactively.
 	remind him in voice output.Besides, the system will also tell whether the answer is true or false after the user is input an answer.
 	If the answer is incorrect, the system will tell out the correct answer.
 	
-	
-	
-	
-
-***************************************************************************************************************************************
 
 	
 	4.The summary is displayed once 5 minutes is end or 10 questions are passed. The summary will display all the result of user and read them out in voice.
+
+
+
+
+***************************************************************************************************************************************
